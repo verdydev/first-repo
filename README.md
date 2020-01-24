@@ -1,2 +1,2 @@
 # first-repo
-Membuat repo pertama
+selamat datang di repositori pertama dari verdy 
